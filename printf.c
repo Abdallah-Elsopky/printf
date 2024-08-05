@@ -3,9 +3,9 @@
 #include "main.h"
 
 /**
-  * _printf - function that produces output according to a format.
-  * @format: format (char, string, int, decimal)
-  * Return: size the output text;
+  * _printf - function
+  * @format: format
+  * Return: text;
   */
 int _printf(const char *format, ...)
 {
