@@ -7,5 +7,6 @@ int printf_char(va_list val);
 int printf_string(va_list val);
 int _strlen(char *str);
 int print_100(void);
+int print_int(va_list i);
 
 #endif
